@@ -1,6 +1,6 @@
 fx_version 'adamant'
 game 'gta5'
-author 'highestop @ Fusion Roleplay Development Team'
+author 'highestop @ HillSide Roleplay Development Team'
 
 resource_type2 'gametype' { name = 'FS-RP' }
 resource_type 'map' { gameTypes = { ['Fusion Roleplay'] = true } }
